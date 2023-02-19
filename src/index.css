@@ -1,13 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@200;300;400;500;600;800&family=Italianno&family=Lora:wght@400;500;600&family=Niramit:wght@200;400;500&family=Playball&family=Pontano+Sans&display=swap');
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    /* General typo */
+    font-family: 'Niramit', sans-serif;
+    /* Hotel Title 
+  font-family: 'Playball', cursive;*/
+    /* font-family: 'Epilogue', sans-serif;
+  font-family: 'Italianno', cursive;
+  font-family: 'Lora', serif;
+  font-family: 'Pontano Sans', sans-serif; */
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
 }
