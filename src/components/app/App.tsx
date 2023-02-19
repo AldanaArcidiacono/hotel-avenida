@@ -1,5 +1,11 @@
+import Header from '../header/header';
+
 function App() {
-    return <div className="App">Hotel Avenida</div>;
+    return (
+        <div className="App">
+            <Header />
+        </div>
+    );
 }
 
 export default App;
