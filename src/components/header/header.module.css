@@ -1,0 +1,22 @@
+.header__container {
+    background-color: #121212;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header__title {
+    color: #FFFFFF;
+    font-family: 'Playball', cursive;
+    font-weight: 400;
+}
+
+.header__book_now {
+    margin-block: 1rem;
+    padding-block: 0.5rem;
+    padding-inline: 1rem;
+    border: 2px solid #FFFFFF;
+    background-color: #121212;
+    color: #FFFFFF;
+    font-family: 'Niramit', sans-serif;
+}
